@@ -1,4 +1,4 @@
-# Creatalk 🎨💬
+# Creatalk
 
 ## About
 
