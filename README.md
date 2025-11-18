@@ -1,4 +1,4 @@
-# Creatalk
+# [creatalk-white.png](https://github.com/artymst/creatalk/blob/9b58f1a9350aa6750ccefe8f7303e5b2e4819a8f/creatalk-white.png)
 
 ## About
 
