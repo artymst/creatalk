@@ -1,4 +1,4 @@
-![Creatalk Logo](creatalk-white.png)
+# Creatalk
 
 ## About
 
